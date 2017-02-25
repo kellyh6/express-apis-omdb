@@ -20,5 +20,16 @@
   "dependencies": {
     "express": "^4.13.4",
     "morgan": "^1.7.0"
-  }
+  },
+  "description": "We'll be creating an app that connects to [OMDB](http://www.omdbapi.com), a public movie API.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyh6/express-apis-omdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/kellyh6/express-apis-omdb/issues"
+  },
+  "homepage": "https://github.com/kellyh6/express-apis-omdb#readme"
 }
